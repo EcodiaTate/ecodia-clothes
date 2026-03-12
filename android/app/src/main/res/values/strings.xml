@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Clothes</string>
+    <string name="title_activity_main">Clothes</string>
+    <string name="package_name">au.ecodia.clothes</string>
+    <string name="custom_url_scheme">au.ecodia.clothes</string>
+</resources>
